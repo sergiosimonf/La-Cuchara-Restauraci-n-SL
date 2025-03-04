@@ -1,11 +1,9 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import base64
 from PIL import Image
 from io import BytesIO
-import os
 from datetime import datetime, timedelta
 
 # Configuración de la página
